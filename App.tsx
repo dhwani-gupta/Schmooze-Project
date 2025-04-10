@@ -268,7 +268,7 @@ export default function App() {
                 }}
               >
                 “I could tell you about my skills… but it’s way more fun to
-                swipe through them 😉”
+                swipe through them. 😉”
               </Text>
             </View>
           </View>
